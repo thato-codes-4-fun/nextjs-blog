@@ -25,6 +25,7 @@ export default function Home({ allPostsData }) {
           My name is Thato
         </p>
         <p>I am a mobile and web dev and awesome developer</p>
+        <p>Learning next...</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
